@@ -1,0 +1,11 @@
+Welcome to Tech Support AI Chatbot!
+Type 'bye' to exit.
+
+You: My internet is not working
+AI Chatbot: Please check your internet connection or try restarting your router.
+
+You: I got an error
+AI Chatbot: Can you please provide the exact error message you're receiving?
+
+You: bye
+AI Chatbot: Thank you for contacting support. Have a great day!
